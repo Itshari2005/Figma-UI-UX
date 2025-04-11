@@ -1,6 +1,6 @@
 # 🌟 30 Days UI/UX Design Challenge
 
-This repository contains my personal take on the **30 Days UI/UX Design Challenge** inspired by the [DesignCourse](https://www.youtube.com/@DesignCourse) channel. Each design is crafted with Figma and demonstrates various UI patterns and design principles.
+This repository contains my personal take on the **30 Days UI/UX Design Challenge** inspired by the [DesignCourse](https://www.youtube.com/@DesignCourse/playlists) channel. Each design is crafted with Figma and demonstrates various UI patterns and design principles.
 
 ---
 
@@ -19,11 +19,14 @@ This repository contains my personal take on the **30 Days UI/UX Design Challeng
 
 Below are some previews of the designs:
 
-### ✨ Hero Section UI
-![Hero Section](hero.png)
+### ✨ Dashboard UI
+![Hero Section](Dashboard_UI.png)
 
-### 💳 Cards UI
-![Cards UI](images/cards-ui.png)
+### 💳 Hero Section UI
+![Cards UI](Hero_section.png)
+
+### 💳 Responsive Design UI
+![Cards UI](Responsive_Design.png)
 
 ---
 
