@@ -48,8 +48,3 @@ These designs are for learning and portfolio purposes only and were made while f
 - GitHub: [@Itshari2005](https://github.com/Itshari2005)
 - Email: [your-email@example.com](mailto:hariprashath220305@example.com)
 
----
-
-## 📎 License
-
-This project is under the [MIT License](LICENSE).
